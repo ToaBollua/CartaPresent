@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="celular">Celular</string>
+    <string name="analista_programadora">Analista Programadora</string>
+    <string name="correo">Correo</string>
+    <string name="sobre_ti">Sobre ti</string>
+    <string name="edad">Edad</string>
+    <string name="pais">Pais</string>
+    <string name="nombre_camila_d_az_alias_camiura_murita">Nombre: Camila Díaz, Alias: CamiUra / Murita</string>
+    <string name="todo">TODO</string>
+</resources>
